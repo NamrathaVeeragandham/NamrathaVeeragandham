@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Namratha Veragandham</h1>
+<h1 align="center">Hi 👋, I'm Namratha Veeragandham</h1>
 <h3 align="center">A Salesforce Developer with 3+ years of experience in CRM, Marketing Cloud, and automation tools.</h3>
 
 - 🔭 I’m currently working on **CRM Workflow Automation & API Integrations at DISH Network**
